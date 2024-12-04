@@ -174,7 +174,7 @@ function App() {
             </button>
           </div>
           <p className="footer-text">
-            Made with ❤️ by Your Name
+            Made with ❤️ by Vivek
           </p>
         </footer>
       </div>
